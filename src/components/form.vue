@@ -42,8 +42,6 @@
                     duracaoEmSegunds: timePlayed,
                     descricao: this.descricao
                 }),
-                console.log(timePlayed)
-                console.log(this.descricao)
                 this.descricao = ''
             }
         }

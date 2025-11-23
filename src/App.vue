@@ -14,7 +14,7 @@
 
       </div>
       <UseBox v-if="emptyList">
-        Lista vazia
+        Suas tarefas estão vazias! Iniicie uma nova tarefa acima.
       </UseBox>
     </div>
   </main>
